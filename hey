@@ -1,7 +1,0 @@
-log a = "Felix";
-console.log = (a);
-log b = "16"
-console.warning = (b);
-log c = "docent"
-console.error = (c);
-  
